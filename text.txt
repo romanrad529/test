@@ -1,3 +1,7 @@
 It's some text for practice git.
 As you can see it's working.
+<<<<<<< HEAD
 nice.
+=======
+why it's still works?
+>>>>>>> 6faed871a0c7ae43ee5f000c7b285fe2c452fc51
