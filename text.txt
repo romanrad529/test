@@ -1,4 +1,8 @@
 It's some text for practice git.
 As you can see it's working.
 nice.Hmmmm
+<<<<<<< HEAD
 perfect time!
+=======
+Amazing time to do something useful,not only for yourself but for other too.
+>>>>>>> newmaster
